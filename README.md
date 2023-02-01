@@ -1,8 +1,10 @@
-# UnitfulIntegration
+# [DEPRECATED] UnitfulIntegration
 
 [![Build Status](https://travis-ci.org/ajkeller34/UnitfulIntegration.jl.svg?branch=master)](https://travis-ci.org/ajkeller34/UnitfulIntegration.jl)
 [![Coverage Status](https://coveralls.io/repos/ajkeller34/UnitfulIntegration.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/ajkeller34/UnitfulIntegration.jl?branch=master)
 [![codecov.io](http://codecov.io/github/ajkeller34/UnitfulIntegration.jl/coverage.svg?branch=master)](http://codecov.io/github/ajkeller34/UnitfulIntegration.jl?branch=master)
+
+**This package is deprecated. QuadGK.jl ≥ v2.7 supports Unitful quantities out of the box.**
 
 This package enables integration of physical quantity-valued functions, using
 the Quantity types implemented in [Unitful.jl](https://github.com/ajkeller34/Unitful.jl).
